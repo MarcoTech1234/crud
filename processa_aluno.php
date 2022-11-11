@@ -4,7 +4,7 @@ php da conexão
 
 
 
-include_once  "conexão.php";
+include_once  "conexao.php";
 
 
 
@@ -28,7 +28,7 @@ include_once  "conexão.php";
 
 
 
-    header('location: alunos.html');
+    header('location: ver_aluno.php');
 
 
 
